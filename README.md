@@ -33,12 +33,12 @@ A Python script to export details of all background processes running on your sy
 
 2. Follow the prompt to choose the sorting option:
 
-Choose the sorting type for the processes:
-1. Alphabetical (Name)
-2. By PID
-3. By User
-4. By Status
-Enter the number corresponding to your choice:
+  Choose the sorting type for the processes:
+  1. Alphabetical (Name)
+  2. By PID
+  3. By User
+  4. By Status
+  Enter the number corresponding to your choice:
 
 ## Output
 
@@ -48,6 +48,6 @@ The script will generate a CSV file named background_processes.csv on your Deskt
 
 Feel free to open an issue or submit a pull request for any improvements or bug fixes.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
