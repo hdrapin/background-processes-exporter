@@ -27,11 +27,11 @@ A Python script to export details of all background processes running on your sy
 
 # Usage
 
-## Run the script
+1. Run the script
   ```bash
   python export_background_processes.py
 
-## Follow the prompt to choose the sorting option:
+2. Follow the prompt to choose the sorting option:
 
 Choose the sorting type for the processes:
 1. Alphabetical (Name)
