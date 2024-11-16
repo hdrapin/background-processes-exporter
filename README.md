@@ -28,8 +28,8 @@ A Python script to export details of all background processes running on your sy
 # Usage
 
 ## Run the script
-```bash
-python export_background_processes.py
+  ```bash
+  python export_background_processes.py
 
 ## Follow the prompt to choose the sorting option:
 
