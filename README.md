@@ -18,7 +18,7 @@ A Python script to export details of all background processes running on your sy
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/background_processes_exporter.git
+   git clone https://github.com/hdrapin/background_processes_exporter.git
    cd background_processes_exporter
 
 ## Install dependencies:
