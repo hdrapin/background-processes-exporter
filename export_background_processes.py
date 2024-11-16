@@ -1,3 +1,18 @@
+
+
+#!/usr/bin/env python
+
+"""A Python script to export details of all background processes running on your system to a CSV file. This tool allows you to sort processes based on various attributes, such as name, PID, user, or status."""
+
+__author__ = "HD Rapin"
+
+__license__ = "GPL"
+__version__ = "1.0.1"
+__maintainer__ = "HD Rapint"
+__email__ = "hdrapin @@ proton.me"
+__status__ = "Production"
+
+
 import psutil
 import datetime
 import os
